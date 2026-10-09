@@ -27,3 +27,5 @@ I'm always open to connecting with fellow developers, sharing ideas, and collabo
 
 **💡 Have an interesting project? Let's build something amazing together!**
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=kushal-k9&label=Profile%20views&color=orange&style=flat)
